@@ -1,0 +1,52 @@
+{
+  "skills": [
+    {
+      "icon": "bx bxl-html5",
+      "title": "HTML5"
+    },
+    {
+      "icon": "bx bxl-css3",
+      "title": "CSS3"
+    },
+    {
+      "icon": "bx bxl-bootstrap",
+      "title": "Bootstrap"
+    },
+    {
+      "icon": "bx bxl-javascript",
+      "title": "JavaScript"
+    },
+    {
+      "icon": "bx bxl-typescript",
+      "title": "TypeScript"
+    },
+    {
+      "icon": "bx bxl-jquery",
+      "title": "jQuery"
+    },
+    {
+      "icon": "bx bxl-angular",
+      "title": "Angular"
+    },
+    {
+      "icon": "bx bxl-react",
+      "title": "React & React Native"
+    },
+    {
+      "icon": "bx bxl-nodejs",
+      "title": "Node.js"
+    },
+    {
+      "icon": "bx bxl-php",
+      "title": "PHP"
+    },
+    {
+      "icon": "bx bxl-java",
+      "title": "Java (Servlet & JPA)"
+    },
+    {
+      "icon": "bx bxs-data",
+      "title": "MySQL y SQL Server"
+    }
+  ]
+}

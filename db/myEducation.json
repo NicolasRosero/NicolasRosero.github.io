@@ -1,0 +1,24 @@
+{
+  "myEducation": [
+    {
+      "period": "07/2024 - Present",
+      "title": "Software Engineering (in course)",
+      "company": "Compensar University Foundation"
+    },
+    {
+      "period": "2022 - 2024",
+      "title": "English A1 - C1 Levels",
+      "company": "Smart Academy"
+    },
+    {
+      "period": "2019 - 2022",
+      "title": "Technologist in analysis and development of information systems",
+      "company": "SENA"
+    },
+    {
+      "period": "2020",
+      "title": "Academic bachelor's degree with an emphasis in programming",
+      "company": "IED Arborizadora Baja"
+    }
+  ]
+}

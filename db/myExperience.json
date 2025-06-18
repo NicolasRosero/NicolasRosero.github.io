@@ -1,0 +1,16 @@
+{
+  "jobExperiences": [
+    {
+      "period": "August 2022 - May 2025",
+      "title": "Auxiliar support and junior software developer",
+      "company": "Glogic Technology S.A.S",
+      "desc": "At Glogic, I developed and maintained web/mobile apps (Angular JS, SharePoint, HTML, React Native), fixed projects, and integrated OpenAI API."
+    },
+    {
+      "period": "December 2021 - July 2022",
+      "title": "SENA Interships",
+      "company": "Insercor S.A.S",
+      "desc": "At Insercor, I developed Back-End and Front-End apps using React JavaScript, utilized Firebase Cloud Functions, and learned React Native."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "services": [
+    {
+      "icon": "bx bx-code-alt",
+      "title": "Web development",
+      "desc": "I transform ideas into robust and functional web solutions, developing from concept to implementation, ensuring intuitive user experiences and optimal performance."
+    },
+    {
+      "icon": "bx bx-devices",
+      "title": "Mobile Apps development",
+      "desc": "I design and build innovative, high-performance mobile applications for various platforms, focusing on usability and the integration of advanced features."
+    },
+    {
+      "icon": "bx bx-bot",
+      "title": "AI Integrations (OpenAI API)",
+      "desc": "I integrate artificial intelligence solutions using the OpenAI API to empower your projects with advanced natural language processing capabilities and intelligent automation."
+    }
+  ]
+}
