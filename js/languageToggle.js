@@ -60,6 +60,7 @@ const translations = {
     address: "Address:",
     contact_from_desc: "Contact form available",
     soon_with_symbol: "soon!",
+    contact_me: "Contact Me ;)",
   },
   es: {
     nav_home: "Inicio",
@@ -120,6 +121,7 @@ const translations = {
     address: "Ubicación:",
     contact_from_desc: "Formulario de contacto",
     soon_with_symbol: "pronto!",
+    contact_me: "Contáctame ;)",
   },
 };
 
