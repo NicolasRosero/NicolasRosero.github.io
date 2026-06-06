@@ -58,6 +58,7 @@
   }
 
   .home {
+    padding: 2rem 1% 2rem;
     flex-direction: column-reverse;
     justify-content: center;
     gap: 2rem;
