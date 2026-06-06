@@ -1,0 +1,24 @@
+{
+  "myEducation": [
+    {
+      "period": "07/2024 - Presente",
+      "title": "Ingeniería de Software (en curso)",
+      "company": "Fundación Universitaria Compensar"
+    },
+    {
+      "period": "2022 - 2024",
+      "title": "Niveles de Inglés A1 - C1",
+      "company": "Smart Academy"
+    },
+    {
+      "period": "2019 - 2022",
+      "title": "Tecnólogo en análisis y desarrollo de sistemas de información",
+      "company": "SENA"
+    },
+    {
+      "period": "2020",
+      "title": "Bachillerato académico con énfasis en programación",
+      "company": "IED Arborizadora Baja"
+    }
+  ]
+}

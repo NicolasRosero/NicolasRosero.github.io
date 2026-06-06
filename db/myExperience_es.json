@@ -1,0 +1,28 @@
+{
+  "jobExperiences": [
+    {
+      "period": "Febrero 2026 - Presente",
+      "title": "Desarrollador Junior FullStack",
+      "company": "XCargo S.A.S",
+      "desc": "Creación y mantenimiento de ERP para la gestión aduanera y demás temas logísticos internos de la empresa."
+    },
+    {
+      "period": "Septiembre 2025 - Febrero 2026",
+      "title": "Auxiliar de soporte y desarrollador de software junior",
+      "company": "Glogic Technology S.A.S",
+      "desc": "Mantenimiento de aplicativos propios. Creación y mantenimiento de nuevas características en los productos de la empresa."
+    },
+    {
+      "period": "Agosto 2022 - Mayo 2025",
+      "title": "Auxiliar de soporte y desarrollador de software junior",
+      "company": "Glogic Technology S.A.S",
+      "desc": "En Glogic, desarrollé y mantuve aplicaciones web/móviles (Angular JS, SharePoint, HTML, React Native), corregí proyectos e integré la API de OpenAI."
+    },
+    {
+      "period": "Diciembre 2021 - Julio 2022",
+      "title": "Prácticas SENA",
+      "company": "Insercor S.A.S",
+      "desc": "En Insercor, desarrollé aplicaciones Back-End y Front-End usando React JavaScript, utilicé Firebase Cloud Functions y aprendí React Native."
+    }
+  ]
+}

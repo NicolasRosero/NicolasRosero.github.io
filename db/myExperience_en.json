@@ -1,6 +1,18 @@
 {
   "jobExperiences": [
     {
+      "period": "Febrero 2026 - Presente",
+      "title": "Desarrollador Junior FullStack",
+      "company": "XCargo S.A.S",
+      "desc": "Creation and maintenance of ERP for customs management and other internal logistics issues."
+    },
+    {
+      "period": "Septiembre 2025 - Febrero 2026",
+      "title": "Auxiliar support and junior software developer",
+      "company": "Glogic Technology S.A.S",
+      "desc": "Maintenance of own applications. Creation and maintenance of new features in the company’s products."
+    },
+    {
       "period": "August 2022 - May 2025",
       "title": "Auxiliar support and junior software developer",
       "company": "Glogic Technology S.A.S",
