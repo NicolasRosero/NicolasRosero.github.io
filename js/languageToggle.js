@@ -14,6 +14,7 @@ const translations = {
     i_am_te: "Lover of Reading",
     my_intro: "As an experienced Junior Software Developer, I bring a robust knowledge of both Back-End and Front-End technologies. My professional journey includes significant contributions to the development and maintenance of applications using Angular JS, SharePoint, HTML, jQuery, JS, CSS, Bootstrap,  React Native and Nodejs. I am highly skilled in integrating advanced features, such as the OpenAI API, into projects , and have a proven track record of maintaining and fixing complex systems.",
     download_cv: "Download CV",
+    cv_link: "https://drive.google.com/file/d/1YSzLj8khtpeo-INY1-8xUA2oDOZVhzlk/view?usp=sharing",
     mys: "My",
     my: "My",
     services: "Services",
@@ -75,6 +76,7 @@ const translations = {
     i_am_te: "Amante de la lectura",
     my_intro: "Como desarrollador de software junior con experiencia, aporto un sólido conocimiento tanto de las tecnologías de back-end como de front-end. Mi trayectoria profesional incluye contribuciones significativas al desarrollo y mantenimiento de aplicaciones utilizando Angular JS, SharePoint, HTML, jQuery, JS, CSS, Bootstrap, React Native y Nodejs. Soy muy hábil en integrar características avanzadas, como la API de OpenAI, en proyectos y tengo un historial comprobado de mantenimiento y reparación de sistemas complejos.",
     download_cv: "Descargar CV",
+    cv_link: "https://drive.google.com/file/d/1JMAXRUFfhJ5yWhOGdKu6TQkF95UuqcqJ/view?usp=sharing",
     mys: "Mis",
     my: "Mi",
     services: "Servicios",
@@ -135,6 +137,14 @@ function applyStaticTranslations(lang) {
       if (el.hasAttribute("data-text")) {
         el.setAttribute("data-text", text);
       }
+    }
+  });
+
+  document.querySelectorAll("[data-i18n-href]").forEach((el) => {
+    const key = el.dataset.i18nHref;
+    const href = translations[lang][key];
+    if (href) {
+      el.href = href;
     }
   });
 }
