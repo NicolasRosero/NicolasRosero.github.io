@@ -2,9 +2,9 @@
   "jobExperiences": [
     {
       "period": "Febrero 2026 - Presente",
-      "title": "Desarrollador Junior FullStack",
+      "title": "Técnico en desarrollo FullStack",
       "company": "XCargo S.A.S",
-      "desc": "Creación y mantenimiento de ERP para la gestión aduanera y demás temas logísticos internos de la empresa."
+      "desc": "Desarrollo de un ERP en Nodejs y React Vite. Creación de nuevas características. Integración de tecnologías como Microsoft Azure para almacenamiento de archivos, autenticación por MSAL y envió de correos electrónicos. Diseño de base de datos e implementación y creación de lógica para la solución de requerimientos."
     },
     {
       "period": "Septiembre 2025 - Febrero 2026",
